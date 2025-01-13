@@ -1,5 +1,5 @@
-This program will find all words in a word search grid by giving the location of the first character and then the oriented direction.
-This program takes two command line arguments: the first is the word search grid and the second is the word to search. Both are in txt file format.
+<p>This program will find all words in a word search grid by giving the location of the first character and then the oriented direction.
+This program takes two command line arguments: the first is the word search grid and the second is the word to search. Both are in txt file format.</p>
 **IMPORTANT**
 The format of the grid must look like the following:
 -------------------------------

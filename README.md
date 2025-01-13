@@ -2,9 +2,8 @@
 This program takes two command line arguments: the first is the word search grid and the second is the word to search. Both are in txt file format.</p>
 <br />
 <br />
-
-**IMPORTANT**
-The format of the grid must look like the following:
+<h3><b>**IMPORTANT**</b></h3>
+<p>The format of the grid must look like the following:</p>
 -------------------------------
 |T|U|O|R|T|I|A|S|E|A|U|B|D|P|A|
 -------------------------------
